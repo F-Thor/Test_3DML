@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.6-stretch
 MAINTAINER Pavel Kolichko <fthorror@gmail.com>
 
 COPY requirements.txt .
